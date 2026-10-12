@@ -1,0 +1,62 @@
+# GROWL Catalog entry
+# Copy this folder to simulations/<id>/ and fill in every field.
+# Fields marked (required) are checked automatically when you open a pull request.
+# Leave optional fields as null if they do not apply.
+
+id: firstauthor-year-shorttag          # (required) lowercase, hyphens only, must match the folder name
+title: "Full title of the paper"       # (required)
+status: in-progress                    # (required) in-progress | ready-for-review | complete
+
+contributors:                          # (required) who built this entry
+  - name: "Your Name"
+    github: your-github-username
+
+# ---------------------------------------------------------------- paper
+paper:
+  authors: ["Lastname, F.", "Lastname, F."]   # (required)
+  year: 2024                                  # (required)
+  journal: null                               # e.g. MNRAS, ApJ
+  doi: null                                   # e.g. 10.1093/mnras/xxxx
+  arxiv: null                                 # e.g. 2401.01234
+  ads_bibcode: null                           # e.g. 2024MNRAS.000.0000L
+
+# ---------------------------------------------------------------- code
+code:
+  name: COMPAS                    # (required) e.g. COMPAS, COSMIC, SEVN, POSYDON, StarTrack, MOBSE, BPASS
+  version: null                   # exact version or git commit used in the paper
+  url: null                       # repository or homepage
+  config_files: []                # paths in this folder to any run/config files you recovered
+
+# ---------------------------------------------------------------- data (Task: data download)
+data:
+  available: true                 # (required) is the simulation output public?
+  repository: Zenodo              # e.g. Zenodo, institutional archive, author website, on request
+  doi: null                       # data DOI if different from the paper DOI
+  url: null                       # (required if available is true) direct landing page
+  license: null                   # e.g. CC-BY-4.0
+  format: null                    # e.g. HDF5, CSV, FITS
+  size: null                      # approximate total size, e.g. "12 GB"
+  files: []                       # list of the main files, each: {name: ..., description: ...}
+  download_instructions: |        # (required) exact steps or commands to obtain the data
+    Describe how to get the data here.
+  notes: null                     # anything surprising: missing columns, unit conventions, known issues
+
+# ---------------------------------------------------------------- populations
+populations:                      # (required) which merger types the data contain
+  - BBH                           # BBH | BHNS | BNS | other
+
+# ---------------------------------------------------------------- parameters (Task: parameters)
+# One entry per physics or setup assumption. Always record WHERE in the paper you found it.
+parameters:                       # (required, at least one entry)
+  - name: common_envelope_alpha
+    value: 1.0
+    units: null
+    description: "Common-envelope efficiency parameter (alpha_CE)"
+    source_in_paper: "Section 2.3, Table 1"
+    varied: false                 # true if this parameter is varied across model variations
+
+# ---------------------------------------------------------------- model variations
+model_variations: []              # if the paper runs several models, one entry each:
+#  - label: "fiducial"
+#    description: "Default assumptions"
+#    changed_parameters: {}

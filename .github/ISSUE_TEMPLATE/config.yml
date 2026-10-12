@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Questions and discussion: GW Paleontology Discord"
+    url: https://discord.gg/REPLACE-WITH-INVITE
+    about: "Ask questions on Discord. Use issues only for catalog tasks."

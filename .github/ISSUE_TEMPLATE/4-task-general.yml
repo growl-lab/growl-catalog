@@ -1,0 +1,32 @@
+name: "Task: other"
+description: "Any other piece of a catalog entry (code and configuration, model variations, README summary, ...)."
+title: "[Task] <catalog id>: <what>"
+labels: ["task"]
+body:
+  - type: input
+    id: entry_id
+    attributes:
+      label: Catalog id
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Task type
+      options:
+        - "Code and configuration"
+        - "Model variations"
+        - "README summary"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs to be done
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when

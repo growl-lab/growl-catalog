@@ -1,0 +1,52 @@
+name: "Task: data download"
+description: "Work out how to obtain the simulation output and document it in metadata.yaml (data section)."
+title: "[Data] <catalog id>"
+labels: ["task", "task: data"]
+body:
+  - type: input
+    id: entry_id
+    attributes:
+      label: Catalog id
+      placeholder: "smith-2024-bns-delays"
+    validations:
+      required: true
+  - type: dropdown
+    id: availability
+    attributes:
+      label: Is the data publicly available?
+      options:
+        - "Yes, public repository (Zenodo, etc.)"
+        - "Yes, author or institutional website"
+        - "Only on request"
+        - "Not available"
+        - "Not sure yet"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Data URL or DOI
+  - type: textarea
+    id: steps
+    attributes:
+      label: Download steps you tested
+      description: "Exact commands or clicks. Someone new should be able to repeat them."
+      render: shell
+  - type: textarea
+    id: contents
+    attributes:
+      label: What is in the files?
+      description: "Main files, format, size, key columns, units"
+  - type: textarea
+    id: issues
+    attributes:
+      label: Problems or surprises
+      description: "Missing columns, broken links, unclear units, etc."
+  - type: checkboxes
+    id: done
+    attributes:
+      label: Done when
+      options:
+        - label: "I downloaded the data myself and opened it"
+        - label: "The data section of metadata.yaml is filled in"
+        - label: "The validator passes on my branch"

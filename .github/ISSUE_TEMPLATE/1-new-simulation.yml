@@ -1,0 +1,49 @@
+name: "New simulation entry"
+description: "Parent issue for adding one simulation/paper to the catalog. Maintainers open this and assign a student."
+title: "[Simulation] <First author> <year>: <short title>"
+labels: ["simulation", "parent"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is the **parent issue** for one catalog entry. Each task below becomes a sub-issue
+        (use "Create sub-issue" on this page and pick the matching task form).
+  - type: input
+    id: paper
+    attributes:
+      label: Paper
+      description: "arXiv ID, DOI, or ADS link"
+      placeholder: "arXiv:2401.01234"
+    validations:
+      required: true
+  - type: input
+    id: entry_id
+    attributes:
+      label: Catalog id (folder name)
+      description: "lowercase, hyphens only: firstauthor-year-shorttag"
+      placeholder: "smith-2024-bns-delays"
+    validations:
+      required: true
+  - type: input
+    id: assignee
+    attributes:
+      label: Contributor
+      placeholder: "@github-username"
+    validations:
+      required: true
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasks for this entry
+      description: "Untick any that do not apply. Open a sub-issue for each ticked task."
+      options:
+        - label: "Data download"
+        - label: "Parameters"
+        - label: "Code and configuration"
+        - label: "Model variations"
+        - label: "README summary"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes from the maintainer
+      description: "Anything the contributor should know before starting"

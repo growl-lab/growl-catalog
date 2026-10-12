@@ -1,0 +1,37 @@
+name: "Task: parameters"
+description: "Extract the physics and setup assumptions and record them in metadata.yaml (parameters section)."
+title: "[Parameters] <catalog id>"
+labels: ["task", "task: parameters"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For every parameter, record **where in the paper** you found it (section, table, equation).
+        If the paper is silent and you took a value from the code default, say so in `source_in_paper`.
+  - type: input
+    id: entry_id
+    attributes:
+      label: Catalog id
+    validations:
+      required: true
+  - type: textarea
+    id: params
+    attributes:
+      label: Parameters found
+      description: "One per line: name | value | units | where in paper"
+      placeholder: |
+        common_envelope_alpha | 1.0 | - | Sec 2.3
+        max_ns_mass | 2.5 | Msun | Table 1
+  - type: textarea
+    id: unclear
+    attributes:
+      label: Unclear or missing parameters
+      description: "Anything you could not pin down. A maintainer will help."
+  - type: checkboxes
+    id: done
+    attributes:
+      label: Done when
+      options:
+        - label: "Every parameter has a source_in_paper"
+        - label: "Parameters varied across models are marked varied: true"
+        - label: "The validator passes on my branch"

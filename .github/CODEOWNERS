@@ -1,0 +1,10 @@
+# Every pull request needs approval from one maintainer.
+# Requires branch protection on main with "Require review from Code Owners" turned on.
+
+*                     @growl-lab/maintainers
+
+# Infrastructure changes (schema, validator, workflows, templates) need a maintainer too,
+# listed separately so you can later narrow this to specific people.
+/schema/              @growl-lab/maintainers
+/scripts/             @growl-lab/maintainers
+/.github/             @growl-lab/maintainers
