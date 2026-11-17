@@ -1,7 +1,7 @@
 # vanson-2023-sfrd: van Son et al. (2023), Zenodo 7612755
 
-**Status:** 🙋 looking for a new owner. Mike Steele worked on this dataset until November 2026 and
-handed it off; his results so far are below.
+**Team:** Edward Vu (since 2026-11-16). Mike Steele worked on this dataset until November 2026
+and handed it off; his results so far are below.
 
 | | |
 |---|---|
@@ -22,8 +22,9 @@ handed it off; his results so far are below.
   Zenodo 7612755 (this one, released with van Son et al. 2023); Zenodo 5544170 went to Tanmoy
   ([`vanson-2022-weightymatter`](../vanson-2022-weightymatter/)).
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from
-  `vanSon22weightyMatter_1__Mike_Steele`. Mike handed the dataset off (see below); **new student to
-  be assigned**.
+  `vanSon22weightyMatter_1__Mike_Steele`. Mike handed the dataset off (see below).
+- **2026-11-16**: Assigned this dataset to **Edward Vu**, starting from Mike's hand-off. Added
+  `step1_Edward_Vu.ipynb`.
 
 In Mike's notes, "2022a" means van Son et al. (2022), *The redshift evolution of the binary black
 hole merger rate: a weighty matter*, ApJ 931, 17 (the paper behind Zenodo 5544170).
@@ -37,7 +38,7 @@ Mike's notebooks (on his own GitHub, not in this repository):
 - Last snapshot, including Task E: [growl_last_update_mike](https://github.com/steele-stats/growl_last_update_mike)
 
 `step1_Mike_Steele.ipynb` in this folder is the instructions copy that was prepared for him; his
-filled-in work is in the links above. **Tasks A–D, F and G have not been started** for this dataset.
+filled-in work is in the links above. Edward works in `step1_Edward_Vu.ipynb`. **Tasks A–D, F and G have not been started** for this dataset.
 
 ### Task 0 result: this is NOT the same simulation as Zenodo 5544170
 
@@ -119,4 +120,4 @@ paper before copying it into `metadata.csv`.** The sources are listed, so this s
 
 ## Notes
 
-*New entries go below, with your name and the date, e.g. `### 2026-12-01 (Name)`.*
+*New entries go below, with your name and the date, e.g. `### 2026-12-01 (Edward)`.*
