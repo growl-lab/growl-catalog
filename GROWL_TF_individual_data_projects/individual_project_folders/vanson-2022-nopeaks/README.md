@@ -19,6 +19,24 @@
   step 1 notebooks are now `step1_Maryam_Ahsan_part1.ipynb` (Zenodo 7080725) and
   `step1_Maryam_Ahsan_part2.ipynb` (Zenodo 7080164).
 
-## Notes
+## Notes (Maryam)
 
-*New entries go below, with your name and the date, e.g. `### 2026-12-01 (Name)`.*
+- **2026-10-04 (Maryam):** Cloned the original GROWL repository and began reading van Son et al. (2022),
+  "No peaks without valleys", ApJ 940, 184 ([arXiv:2209.13609](https://arxiv.org/abs/2209.13609)).
+- **2026-10-10 (Maryam):** Completed a first reading of the paper and downloaded all 13 datasets for part 1 from [Zenodo 7080725](https://zenodo.org/records/7080725).
+- **2026-10-19 (Maryam):** Completed tasks A-G in `step1_Maryam_Ahsan_part1` notebook for, working with ζ_eff = 4.5 submodel. Identified several discrepancies and limitations in the publicly available data:
+  - The paper describes a mass range of approximately 10–150 M☉, whereas the dataset contains objects with masses extending down to approximately 5 M☉.
+  - Several important parameters are unavailable in Zenodo files, including initial orbital separation, eccentricity, coalescence time, and delay time.
+  - The Zenodo files do not contain the complete simulated population, including systems that did not form binaries. Consequently, although merger rates are provided, the available data is insufficient to independently reconstruct the merger rates through cosmic integration.
+- **2026-10-29 (Maryam):** Contacted Lieke van Son, paper's first author, to clarify the discrepancies and inquire about access to the missing simulation data.
+- **2026-11-04:** Began downloading dataset part 2 from [Zenodo 7080164](https://zenodo.org/records/7080164).
+- **2026-11-11 (Maryam):** Received a response from Lieke van Son, who kindly offered to share the additional simulation data. We are currently exploring suitable methods for transferring the files.
+- **2026-11-16 (Maryam):** Completed the `step1_Maryam_Ahsan_part2` notebook.
+- **2026-11-17 (Maryam):** Cloned the new `growl-catalog` repository and began updating the project documentation: updated `README.md` with notes thus far and created`download_instructions.txt`.
+
+**Outstanding items / Next steps:**
+
+- Arrange the transfer of the additional simulation data from Lieke van Son.
+- Revisit the missing parameters and merger-rate calculations once the complete data become available.
+- Explore the paper's corresponding [LowMBH_and_StableChannel repository](https://github.com/LiekeVanSon/LowMBH_and_StableChannel) to reproduce paper figures.
+- Transfer the completed `step_1...` work into the updated notebooks in `growl-catalog`, incorporating any changes to the instructions.
