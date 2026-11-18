@@ -1,0 +1,12 @@
+1. Go to https://gwlandscape.org.au/publication/Q29tcGFzUHVibGljYXRpb25Ob2RlOjI3/
+2. From the model option, chose the FIDUCIAL, LOG-UNIFORM Z option
+3. Downloaded the file using DOWNLOAD MODEL DATASET option.
+4. Create a folder named GWLandscapeDefault_v02_39_01, and inside it, create a subfolder named Log-Uniform Z.
+5. *Moved/renamed the folder to `GWLandscapeDefault_v02_39_01/Log-Uniform Z`
+
+
+## Notes:
+1. There is really not much that can go wrong, just make sure to download the right file.
+2. The file is approximately 1.25 GB in size so ensure that you have enough disk space before hand.
+3. As far as I know, this file does not come with any checksums so just make sure you have a stable internet connection and track the download peogress in the browser. 
+
