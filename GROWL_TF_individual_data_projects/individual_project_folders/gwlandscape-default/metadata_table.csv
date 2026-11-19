@@ -1,0 +1,7 @@
+parameter,submodel,value,units,source_in_paper,status,verified_by,notes
+code_name_and_version,all,COMPAS v02.39.01,N/A,file itself(Run_Details),verified,Tanush,
+zams_mass_range_primary,all,5 to 150,Msun,file itself(Run_Details),verified,Tanush,
+initial_mass_function,all,Kroupa(2001),N/A,file itself(Run_Details) and documentation,verified,Tanush,
+mass_ratio_distribution,all,Flat between 0.001 and 1,N/A,file itself(Run_Details),verified,Tanush,
+metallicities,all,between 0.0001 and 0.03; Log Uniform distribution,,file itself(Run_Details),Verified,Tanush,
+
