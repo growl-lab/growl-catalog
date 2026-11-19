@@ -16,3 +16,5 @@ Steps to download the GWLandscape fiducial model dataset with a log-uniform reds
 2. The file is approximately **1.25 GB** in size, so ensure that you have enough disk space beforehand.
 3. As far as I know, this file does not come with any checksums, so make sure you have a stable internet connection and track the download progress in the browser.
 
+Direct link to the file : https://gwlandscape.org.au/file_download/?fileId=c12bf6ae-72dd-4814-9fd3-859eae11e5bc
+
