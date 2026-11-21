@@ -15,3 +15,5 @@
 ## Notes
 
 *New entries go below, with your name and the date, e.g. `### 2026-12-01 (Name)`.*
+### 2026-11-18 (Tanush) : Uploaded download_instructions.md
+### 2026-11-19 (Tanush) : Uploaded the filled notebook and the metadata table
