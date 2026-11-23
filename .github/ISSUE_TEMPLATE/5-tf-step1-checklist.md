@@ -29,7 +29,7 @@ on Discord, and bring what you find to the hands-on sessions.
 ### B–C. Paths and download
 - [ ] `PATH` dictionary cell runs and finds every file
 - [ ] Data downloaded (checksum verified: optional)
-- [ ] Download instructions written so someone else can follow them literally, with the real commands
+- [ ] Download instructions written in `download_instructions.md` so someone else can follow them literally, with the real commands
 - [ ] Difficulties and gotchas written down
 - [ ] Paper PDF and archive README saved next to the data
 

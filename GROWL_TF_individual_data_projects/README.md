@@ -35,7 +35,7 @@ GROWL_TF_individual_data_projects/
     └── <dataset>/                     <- one folder per DATASET, e.g. broekgaarden-2022-dcorates
         ├── README.md                  <- shared notes: the main file of the project
         ├── step1_<YourName>.ipynb     <- each person's own copy of the instructions
-        ├── download_instructions.txt  <- deliverable of step 1 (Task C)
+        ├── download_instructions.md   <- deliverable of step 1 (Task C)
         ├── metadata.csv               <- deliverable of step 1 (Task E)
         └── figures/                   <- optional: small PNGs you refer to in README.md
 ```
@@ -81,7 +81,7 @@ folder names) in your checklist issue, and a mentor **confirms** it before you c
 |---|---|---|
 | `README.md` | **Shared notes.** This is the main file of the project. Write down what you did, what you found, what was unclear, and questions for the team. Keep adding to it, with your name and the date on each entry (`### 2026-11-20 (Joseph)`). | Always |
 | `step1_<YourName>.ipynb` | Your copy of the instruction notebook, with the tasks filled in. | Step 1 |
-| `download_instructions.txt` | The exact recipe to download the data (Task C): links, the commands you typed, difficulties. Someone else must be able to follow it literally. | Step 1 |
+| `download_instructions.md` | The exact recipe to download the data (Task C): links, the commands you typed, difficulties. Someone else must be able to follow it literally. Written in Markdown, so commands go in code blocks and the difficulties in a table. | Step 1 |
 | `metadata.csv` | The metadata table (Task E), **checked by a person against the paper**. See below. | Step 1 |
 | `figures/*.png` | Small plots you want to show in your `README.md`. | Optional |
 
