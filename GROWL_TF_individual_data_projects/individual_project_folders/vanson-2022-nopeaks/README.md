@@ -20,6 +20,7 @@
   `step1_Maryam_Ahsan_part2.ipynb` (Zenodo 7080164).
 - **2026-11-24**: Floor is transferring all the original data files to Floor's cluster, so that
   Maryam will have access to them there.
+- **2026-11-24**: Floor is working on the next steps and will add them here within the next two days.
 
 ## Notes (Maryam)
 
