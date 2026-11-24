@@ -17,6 +17,12 @@
 - **2026-11-16**: Moved the project to growl-catalog and merged the three separate folders
   (`Broekgaarden22_1__Joseph`, `Broekgaarden22_2__Jayjanth`, `Broekgaarden22_3__Hsin_Yu_Ho`)
   into this shared folder.
+- **2026-11-24**: ✅ Done: Joseph, Jayjanth and Hsin-Yu Ho added their dataset's information to
+  the COMPAS catalog README table. Checked by Floor.
+- **2026-11-24**: Next concrete steps (from Floor):
+  1. Write down in this README your conclusion about the differences between the Paper I and
+     Paper II data files, and confirm why we use the Paper II data files.
+  2. Upload a list of the header names (groups and columns) of the HDF5 file.
 
 ## Notes
 
