@@ -18,6 +18,8 @@
   (`vanSon22noPeaks_1__Maryam_Ahsan`, `vanSon22noPeaks_2__Maryam_Ahsan`) into this one. The two
   step 1 notebooks are now `step1_Maryam_Ahsan_part1.ipynb` (Zenodo 7080725) and
   `step1_Maryam_Ahsan_part2.ipynb` (Zenodo 7080164).
+- **2026-11-24**: Floor is transferring all the original data files to Floor's cluster, so that
+  Maryam will have access to them there.
 
 ## Notes (Maryam)
 
