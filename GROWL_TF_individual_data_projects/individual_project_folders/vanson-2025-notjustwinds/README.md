@@ -14,6 +14,11 @@
 - *(date to fill in)*: Assigned to Prathmesh Shaswat.
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from
   `vanSon25notJustWinds_1__Prathmesh_Shaswat`.
+- **2026-11-24**: Check-in with Prathmesh. **Next step:** search the data for `Run_Details` (a group
+  in the HDF5 file, or a separate file in the archive). If you find it, upload only the first row
+  to this folder, as a CSV with one line per setting (`option,value`), like Sofia's
+  [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
+  If it isn't there, write that down here; that is a useful result too.
 
 ## Notes
 

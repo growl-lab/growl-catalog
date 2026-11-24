@@ -25,6 +25,9 @@ and handed it off; his results so far are below.
   `vanSon22weightyMatter_1__Mike_Steele`. Mike handed the dataset off (see below).
 - **2026-11-16**: Assigned this dataset to **Edward Vu**, starting from Mike's hand-off. Added
   `step1_Edward_Vu.ipynb`.
+- **2026-11-24**: Check-in with Ed. **First task:** find a way to upload a `.csv` file (or
+  something similar) that lists all the available parameter header names (groups and columns)
+  in the data file.
 
 In Mike's notes, "2022a" means van Son et al. (2022), *The redshift evolution of the binary black
 hole merger rate: a weighty matter*, ApJ 931, 17 (the paper behind Zenodo 5544170).

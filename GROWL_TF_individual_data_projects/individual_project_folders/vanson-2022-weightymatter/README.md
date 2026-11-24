@@ -21,6 +21,13 @@
   ([`vanson-2023-sfrd`](../vanson-2023-sfrd/)).
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from
   `vanSon22weightyMatter_2__Tanmoy_Bhowmik`.
+- **2026-11-24**: ✅ Tanmoy checked the entries of our COMPAS catalog checklist. **Next steps:**
+  1. Check whether the file has a `Run_Details` group. Here it is probably the group called
+     `Details` (see Mike's Task 0 below). If so, export its first row to a CSV in this folder, one
+     line per setting (`option,value`), like Sofia's
+     [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
+  2. List all the parameter headers (groups and columns) in the data file in a text file, and
+     upload that too.
 
 ---
 

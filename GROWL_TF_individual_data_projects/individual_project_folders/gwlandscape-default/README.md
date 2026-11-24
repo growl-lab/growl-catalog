@@ -11,6 +11,9 @@
   paper, so Task D is skipped; Task 0 is to download and verify the data.
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from
   `GWLandscapeDefault_1__Tanush`.
+- **2026-11-24**: Check-in with Tanush. **Next step:** upload `Run_Details` to this folder, only
+  the first row, as a CSV with one line per setting (`option,value`), like Sofia's
+  [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
 
 ## Notes
 

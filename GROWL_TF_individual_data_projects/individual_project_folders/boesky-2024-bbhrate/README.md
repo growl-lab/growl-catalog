@@ -30,6 +30,10 @@
     repo vary the CE α and the mass-transfer efficiency fa.
   - **Sampling:** STROOPWAFEL (both papers), so expect weights.
 - **2026-11-18**: Sofia notes that `Run_Details` records **v02.31.09** instead of v02.31.04.
+- **2026-11-24**: ✅ Sofia uploaded `Run_Details` to the repository
+  (`run_details_boesky_2024_bbh_rate.csv`); Floor checked the folder and everything is in there.
+  **Next step:** upload a list of all the parameter header names (groups and columns) in the
+  Boesky data file.
 
 ## Notes
 

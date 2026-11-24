@@ -12,6 +12,12 @@
   (ApJS 258, 34). Paired with Nicholas ([`compas-2022-methods1`](../compas-2022-methods1/)) to
   compare COMPAS v02.21.00 with v02.27.05.
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from `COMPAS22repZ_1__Ethan`.
+- **2026-11-24**: Check-in with Ethan. **Next step:** upload `Run_Details` to this folder, only
+  the first row, as a CSV with one line per setting (`option,value`), like Sofia's
+  [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
+  Take it from the `Run_Details` group inside the `Z_all` HDF5 file. The separate Run_Details
+  text file on Zenodo belongs to one Z = 0.02 batch, and its initial-condition settings are
+  overridden by a grid file.
 
 ## Notes
 

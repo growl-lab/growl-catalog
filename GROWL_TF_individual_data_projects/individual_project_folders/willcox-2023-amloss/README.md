@@ -14,6 +14,12 @@
   ([`vanson-2022-nopeaks`](../vanson-2022-nopeaks/)). Note: the paper's analysis stops at the
   first supernova, but the files do contain double compact objects.
 - **2026-11-16**: Moved the project to growl-catalog; folder renamed from `Willcox23AMloss_1__Harry`.
+- **2026-11-24**: Check-in with Harry. **Next step:** upload `Run_Details` to this folder. It should
+  exist in these files: we found a `Run_Details` group with 25 rows (one per batch) in
+  `zetaDefault_betaComp_fgamma0.00`. Upload only the first row, as a CSV with one line per setting
+  (`option,value`), like Sofia's
+  [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
+  Start with that one file; the 19 files are different models, so their settings will differ.
 
 ## Notes
 
