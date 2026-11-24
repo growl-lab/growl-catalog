@@ -23,12 +23,16 @@ and nobody has looked at most of these datasets this way before, so what you fin
 - **cool updates**: plots, surprises, things that match (or don't match) the paper. Everyone
   would love to see them.
 
+**Which dataset is whose?** See [DATASETS.md](DATASETS.md): every dataset, who works on it, and
+what we know about its files so far.
+
 GitHub is for submitting your work; Discord and the hands-on sessions are for talking about it.
 Please don't use GitHub issues for questions.
 
 ```
 GROWL_TF_individual_data_projects/
 ├── README.md                          <- this file
+├── DATASETS.md                        <- who works on which dataset, and the checks so far
 ├── instructions_task_force/           <- instruction notebooks, one per step (read only, don't edit)
 │   └── step1_download_and_investigate_data.ipynb
 └── individual_project_folders/
