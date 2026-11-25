@@ -17,6 +17,7 @@
   the first row, as a CSV with one line per setting (`option,value`), like Sofia's
   [`run_details_boesky_2024_bbh_rate.csv`](../boesky-2024-bbhrate/run_details_boesky_2024_bbh_rate.csv).
   Its `COMPAS-Version` line also confirms which code version made the data (expected: v02.21.00).
+  -**2026-11-24 (Nicholas Rodriguez) **: uploaded a copt of my WIP step 1 note book and the run_details csv file
 
 ## Notes
 
