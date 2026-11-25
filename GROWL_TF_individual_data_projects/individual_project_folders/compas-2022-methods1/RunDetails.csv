@@ -1,2 +1,349 @@
-,Actual-Random-Seed,Actual-Random-Seed-Derivation,COMPAS-Version,COMPAS-Version-Derivation,Clock-Time,Clock-Time-Derivation,Objects-Created,Objects-Created-Derivation,Objects-Requested,Objects-Requested-Derivation,PISN-lower-limit,PISN-lower-limit-Derivation,PISN-upper-limit,PISN-upper-limit-Derivation,PPI-lower-limit,PPI-lower-limit-Derivation,PPI-upper-limit,PPI-upper-limit-Derivation,Run-End,Run-End-Derivation,Run-Start,Run-Start-Derivation,Wall-Time,Wall-Time-Derivation,actual-output-path,actual-output-path-Derivation,add-options-to-sysparms,add-options-to-sysparms-Derivation,allow-rlof-at-birth,allow-rlof-at-birth-Derivation,allow-touching-at-birth,allow-touching-at-birth-Derivation,angular-momentum-conservation-during-circularisation,angular-momentum-conservation-during-circularisation-Derivation,black-hole-kicks,black-hole-kicks-Derivation,case-BB-stability-prescription,case-BB-stability-prescription-Derivation,check-photon-tiring-limit,check-photon-tiring-limit-Derivation,chemically-homogeneous-evolution,chemically-homogeneous-evolution-Derivation,circularise-binary-during-mass-transfer,circularise-binary-during-mass-transfer-Derivation,common-envelope-allow-main-sequence-survive,common-envelope-allow-main-sequence-survive-Derivation,common-envelope-alpha,common-envelope-alpha-Derivation,common-envelope-alpha-thermal,common-envelope-alpha-thermal-Derivation,common-envelope-lambda,common-envelope-lambda-Derivation,common-envelope-lambda-multiplier,common-envelope-lambda-multiplier-Derivation,common-envelope-lambda-prescription,common-envelope-lambda-prescription-Derivation,common-envelope-mass-accretion-constant,common-envelope-mass-accretion-constant-Derivation,common-envelope-mass-accretion-max,common-envelope-mass-accretion-max-Derivation,common-envelope-mass-accretion-min,common-envelope-mass-accretion-min-Derivation,common-envelope-mass-accretion-prescription,common-envelope-mass-accretion-prescription-Derivation,common-envelope-recombination-energy-density,common-envelope-recombination-energy-density-Derivation,common-envelope-slope-kruckow,common-envelope-slope-kruckow-Derivation,cool-wind-mass-loss-multiplier,cool-wind-mass-loss-multiplier-Derivation,debug-classes,debug-classes-Derivation,debug-level,debug-level-Derivation,debug-to-file,debug-to-file-Derivation,detailed-output,detailed-output-Derivation,eccentricity,eccentricity-Derivation,eccentricity-distribution,eccentricity-distribution-Derivation,eccentricity-max,eccentricity-max-Derivation,eccentricity-min,eccentricity-min-Derivation,eddington-accretion-factor,eddington-accretion-factor-Derivation,enable-warnings,enable-warnings-Derivation,envelope-state-prescription,envelope-state-prescription-Derivation,errors-to-file,errors-to-file-Derivation,evolve-pulsars,evolve-pulsars-Derivation,evolve-unbound-systems,evolve-unbound-systems-Derivation,fix-dimensionless-kick-magnitude,fix-dimensionless-kick-magnitude-Derivation,fixedRandomSeed,fixedRandomSeed-Derivation,fryer-supernova-engine,fryer-supernova-engine-Derivation,grid,grid-Derivation,hdf5-buffer-size,hdf5-buffer-size-Derivation,hdf5-chunk-size,hdf5-chunk-size-Derivation,help,help-Derivation,initial-mass,initial-mass-1,initial-mass-1-Derivation,initial-mass-2,initial-mass-2-Derivation,initial-mass-Derivation,initial-mass-function,initial-mass-function-Derivation,initial-mass-max,initial-mass-max-Derivation,initial-mass-min,initial-mass-min-Derivation,initial-mass-power,initial-mass-power-Derivation,kick-direction,kick-direction-Derivation,kick-direction-power,kick-direction-power-Derivation,kick-magnitude,kick-magnitude-1,kick-magnitude-1-Derivation,kick-magnitude-2,kick-magnitude-2-Derivation,kick-magnitude-Derivation,kick-magnitude-distribution,kick-magnitude-distribution-Derivation,kick-magnitude-max,kick-magnitude-max-Derivation,kick-magnitude-random,kick-magnitude-random-1,kick-magnitude-random-1-Derivation,kick-magnitude-random-2,kick-magnitude-random-2-Derivation,kick-magnitude-random-Derivation,kick-magnitude-sigma-CCSN-BH,kick-magnitude-sigma-CCSN-BH-Derivation,kick-magnitude-sigma-CCSN-NS,kick-magnitude-sigma-CCSN-NS-Derivation,kick-magnitude-sigma-ECSN,kick-magnitude-sigma-ECSN-Derivation,kick-magnitude-sigma-USSN,kick-magnitude-sigma-USSN-Derivation,kick-mean-anomaly-1,kick-mean-anomaly-1-Derivation,kick-mean-anomaly-2,kick-mean-anomaly-2-Derivation,kick-phi-1,kick-phi-1-Derivation,kick-phi-2,kick-phi-2-Derivation,kick-scaling-factor,kick-scaling-factor-Derivation,kick-theta-1,kick-theta-1-Derivation,kick-theta-2,kick-theta-2-Derivation,log-classes,log-classes-Derivation,log-level,log-level-Derivation,logfile-common-envelopes,logfile-common-envelopes-Derivation,logfile-definitions,logfile-definitions-Derivation,logfile-detailed-output,logfile-detailed-output-Derivation,logfile-double-compact-objects,logfile-double-compact-objects-Derivation,logfile-name-prefix,logfile-name-prefix-Derivation,logfile-pulsar-evolution,logfile-pulsar-evolution-Derivation,logfile-rlof-parameters,logfile-rlof-parameters-Derivation,logfile-supernovae,logfile-supernovae-Derivation,logfile-switch-log,logfile-switch-log-Derivation,logfile-system-parameters,logfile-system-parameters-Derivation,logfile-type,logfile-type-Derivation,luminous-blue-variable-multiplier,luminous-blue-variable-multiplier-Derivation,luminous-blue-variable-prescription,luminous-blue-variable-prescription-Derivation,mass-loss-prescription,mass-loss-prescription-Derivation,mass-ratio,mass-ratio-Derivation,mass-ratio-distribution,mass-ratio-distribution-Derivation,mass-ratio-max,mass-ratio-max-Derivation,mass-ratio-min,mass-ratio-min-Derivation,mass-transfer,mass-transfer-Derivation,mass-transfer-accretion-efficiency-prescription,mass-transfer-accretion-efficiency-prescription-Derivation,mass-transfer-angular-momentum-loss-prescription,mass-transfer-angular-momentum-loss-prescription-Derivation,mass-transfer-fa,mass-transfer-fa-Derivation,mass-transfer-jloss,mass-transfer-jloss-Derivation,mass-transfer-rejuvenation-prescription,mass-transfer-rejuvenation-prescription-Derivation,mass-transfer-thermal-limit-C,mass-transfer-thermal-limit-C-Derivation,mass-transfer-thermal-limit-accretor,mass-transfer-thermal-limit-accretor-Derivation,maximum-evolution-time,maximum-evolution-time-Derivation,maximum-mass-donor-nandez-ivanova,maximum-mass-donor-nandez-ivanova-Derivation,maximum-neutron-star-mass,maximum-neutron-star-mass-Derivation,maximum-number-timestep-iterations,maximum-number-timestep-iterations-Derivation,mcbur1,mcbur1-Derivation,metallicity,metallicity-Derivation,metallicity-distribution,metallicity-distribution-Derivation,metallicity-max,metallicity-max-Derivation,metallicity-min,metallicity-min-Derivation,minimum-secondary-mass,minimum-secondary-mass-Derivation,mode,mode-Derivation,muller-mandel-kick-multiplier-BH,muller-mandel-kick-multiplier-BH-Derivation,muller-mandel-kick-multiplier-NS,muller-mandel-kick-multiplier-NS-Derivation,neutrino-mass-loss-BH-formation,neutrino-mass-loss-BH-formation-Derivation,neutrino-mass-loss-BH-formation-value,neutrino-mass-loss-BH-formation-value-Derivation,neutron-star-equation-of-state,neutron-star-equation-of-state-Derivation,number-of-systems,number-of-systems-Derivation,orbital-period,orbital-period-Derivation,orbital-period-distribution,orbital-period-distribution-Derivation,orbital-period-max,orbital-period-max-Derivation,orbital-period-min,orbital-period-min-Derivation,output-container,output-container-Derivation,output-path,output-path-Derivation,overall-wind-mass-loss-multiplier,overall-wind-mass-loss-multiplier-Derivation,pair-instability-supernovae,pair-instability-supernovae-Derivation,population-data-printing,population-data-printing-Derivation,print-bool-as-string,print-bool-as-string-Derivation,pulsar-birth-magnetic-field-distribution,pulsar-birth-magnetic-field-distribution-Derivation,pulsar-birth-magnetic-field-distribution-max,pulsar-birth-magnetic-field-distribution-max-Derivation,pulsar-birth-magnetic-field-distribution-min,pulsar-birth-magnetic-field-distribution-min-Derivation,pulsar-birth-spin-period-distribution,pulsar-birth-spin-period-distribution-Derivation,pulsar-birth-spin-period-distribution-max,pulsar-birth-spin-period-distribution-max-Derivation,pulsar-birth-spin-period-distribution-min,pulsar-birth-spin-period-distribution-min-Derivation,pulsar-magnetic-field-decay-massscale,pulsar-magnetic-field-decay-massscale-Derivation,pulsar-magnetic-field-decay-timescale,pulsar-magnetic-field-decay-timescale-Derivation,pulsar-minimum-magnetic-field,pulsar-minimum-magnetic-field-Derivation,pulsational-pair-instability,pulsational-pair-instability-Derivation,pulsational-pair-instability-prescription,pulsational-pair-instability-prescription-Derivation,quiet,quiet-Derivation,random-seed,random-seed-Derivation,remnant-mass-prescription,remnant-mass-prescription-Derivation,revised-energy-formalism-nandez-ivanova,revised-energy-formalism-nandez-ivanova-Derivation,rlof-printing,rlof-printing-Derivation,rotational-frequency,rotational-frequency-1,rotational-frequency-1-Derivation,rotational-frequency-2,rotational-frequency-2-Derivation,rotational-frequency-Derivation,rotational-velocity-distribution,rotational-velocity-distribution-Derivation,semi-major-axis,semi-major-axis-Derivation,semi-major-axis-distribution,semi-major-axis-distribution-Derivation,semi-major-axis-max,semi-major-axis-max-Derivation,semi-major-axis-min,semi-major-axis-min-Derivation,stellar-zeta-prescription,stellar-zeta-prescription-Derivation,store-input-files,store-input-files-Derivation,switch-log,switch-log-Derivation,timestep-multiplier,timestep-multiplier-Derivation,use-mass-loss,use-mass-loss-Derivation,useFixedUK,useFixedUK-Derivation,version,version-Derivation,wolf-rayet-multiplier,wolf-rayet-multiplier-Derivation,zeta-adiabatic-arbitrary,zeta-adiabatic-arbitrary-Derivation,zeta-main-sequence,zeta-main-sequence-Derivation,zeta-radiative-envelope-giant,zeta-radiative-envelope-giant-Derivation
-0,2460000,b'CALCULATED   ',b'02.21.00',b'CALCULATED   ',154.67,b'CALCULATED   ',10000,b'CALCULATED   ',10000,b'CALCULATED   ',60.0,b'DEFAULT_USED ',135.0,b'DEFAULT_USED ',35.0,b'DEFAULT_USED ',60.0,b'DEFAULT_USED ',b'Thu Oct 28 00:52:59 2021\n',b'CALCULATED   ',b'Thu Oct 28 00:50:24 2021\n',b'CALCULATED   ',b'0000:02:35',b'CALCULATED   ',b'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output',b'CALCULATED   ',"b""'GRID'""",b'DEFAULT_USED ',1,b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',"b""'FALLBACK'""",b'DEFAULT_USED ',"b""'ALWAYS_STABLE'""",b'DEFAULT_USED ',0,b'DEFAULT_USED ',"b""'PESSIMISTIC'""",b'DEFAULT_USED ',1,b'DEFAULT_USED ',1,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',"b""'LAMBDA_NANJING'""",b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',0.04,b'DEFAULT_USED ',"b""'ZERO'""",b'DEFAULT_USED ',15000000000000.0,b'DEFAULT_USED ',-0.833333,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',b'{ }',b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',"b""'ZERO'""",b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',"b""'LEGACY'""",b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',-1.0,b'DEFAULT_USED ',1,b'CALCULATED   ',"b""'DELAYED'""",b'DEFAULT_USED ',"b""'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output/grid_246.csv'""",b'USER_SUPPLIED',1,b'DEFAULT_USED ',100000,b'DEFAULT_USED ',0,b'DEFAULT_USED ',5.0,5.0,b'DEFAULT_USED ',5.0,b'DEFAULT_USED ',b'DEFAULT_USED ',"b""'KROUPA'""",b'DEFAULT_USED ',150.0,b'DEFAULT_USED ',5.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',"b""'ISOTROPIC'""",b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.0,0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',b'DEFAULT_USED ',"b""'MAXWELLIAN'""",b'DEFAULT_USED ',-1.0,b'DEFAULT_USED ',0.0,0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',b'DEFAULT_USED ',265.0,b'DEFAULT_USED ',265.0,b'DEFAULT_USED ',30.0,b'DEFAULT_USED ',30.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',b'{ }',b'DEFAULT_USED ',0,b'DEFAULT_USED ',"b""'BSE_Common_Envelopes'""",b'DEFAULT_USED ',"b""''""",b'DEFAULT_USED ',"b""'BSE_Detailed_Output'""",b'DEFAULT_USED ',"b""'BSE_Double_Compact_Objects'""",b'DEFAULT_USED ',"b""''""",b'DEFAULT_USED ',"b""'BSE_Pulsar_Evolution'""",b'DEFAULT_USED ',"b""'BSE_RLOF'""",b'DEFAULT_USED ',"b""'BSE_Supernovae'""",b'DEFAULT_USED ',"b""'BSE_Switch_Log'""",b'DEFAULT_USED ',"b""'BSE_System_Parameters'""",b'DEFAULT_USED ',"b""'HDF5'""",b'DEFAULT_USED ',1.5,b'DEFAULT_USED ',"b""'HURLEY_ADD'""",b'DEFAULT_USED ',"b""'VINK'""",b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',"b""'FLAT'""",b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',0.01,b'DEFAULT_USED ',1,b'DEFAULT_USED ',"b""'THERMAL'""",b'DEFAULT_USED ',"b""'ISOTROPIC'""",b'DEFAULT_USED ',0.5,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',"b""'STARTRACK'""",b'DEFAULT_USED ',10.0,b'DEFAULT_USED ',"b""'CFACTOR'""",b'DEFAULT_USED ',13700.0,b'DEFAULT_USED ',2.0,b'DEFAULT_USED ',2.5,b'DEFAULT_USED ',99999,b'DEFAULT_USED ',1.6,b'DEFAULT_USED ',0.0142,b'DEFAULT_USED ',"b""'ZSOLAR'""",b'DEFAULT_USED ',0.03,b'DEFAULT_USED ',0.0001,b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',"b""'BSE'""",b'DEFAULT_USED ',200.0,b'DEFAULT_USED ',400.0,b'DEFAULT_USED ',"b""'FIXED_MASS'""",b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',"b""'SSE'""",b'DEFAULT_USED ',10,b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',"b""'FLATINLOG'""",b'DEFAULT_USED ',1000.0,b'DEFAULT_USED ',1.1,b'DEFAULT_USED ',"b""'batch_246'""",b'USER_SUPPLIED',"b""'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output'""",b'USER_SUPPLIED',1.0,b'DEFAULT_USED ',1,b'DEFAULT_USED ',0,b'DEFAULT_USED ',0,b'DEFAULT_USED ',"b""'ZERO'""",b'DEFAULT_USED ',13.0,b'DEFAULT_USED ',11.0,b'DEFAULT_USED ',"b""'ZERO'""",b'DEFAULT_USED ',100.0,b'DEFAULT_USED ',10.0,b'DEFAULT_USED ',0.025,b'DEFAULT_USED ',1000.0,b'DEFAULT_USED ',8.0,b'DEFAULT_USED ',1,b'DEFAULT_USED ',"b""'MARCHANT'""",b'DEFAULT_USED ',0,b'DEFAULT_USED ',2460000,b'USER_SUPPLIED',"b""'FRYER2012'""",b'DEFAULT_USED ',0,b'DEFAULT_USED ',1,b'DEFAULT_USED ',0.0,0.0,b'DEFAULT_USED ',0.0,b'DEFAULT_USED ',b'DEFAULT_USED ',"b""'ZERO'""",b'DEFAULT_USED ',0.1,b'DEFAULT_USED ',"b""'FLATINLOG'""",b'DEFAULT_USED ',1000.0,b'DEFAULT_USED ',0.01,b'DEFAULT_USED ',"b""'SOBERMAN'""",b'DEFAULT_USED ',1,b'DEFAULT_USED ',0,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',1,b'DEFAULT_USED ',0,b'CALCULATED   ',0,b'DEFAULT_USED ',1.0,b'DEFAULT_USED ',10000.0,b'DEFAULT_USED ',2.0,b'DEFAULT_USED ',6.5,b'DEFAULT_USED '
+,0
+Actual-Random-Seed,2460000
+Actual-Random-Seed-Derivation,b'CALCULATED   '
+COMPAS-Version,b'02.21.00'
+COMPAS-Version-Derivation,b'CALCULATED   '
+Clock-Time,154.67
+Clock-Time-Derivation,b'CALCULATED   '
+Objects-Created,10000
+Objects-Created-Derivation,b'CALCULATED   '
+Objects-Requested,10000
+Objects-Requested-Derivation,b'CALCULATED   '
+PISN-lower-limit,60.0
+PISN-lower-limit-Derivation,b'DEFAULT_USED '
+PISN-upper-limit,135.0
+PISN-upper-limit-Derivation,b'DEFAULT_USED '
+PPI-lower-limit,35.0
+PPI-lower-limit-Derivation,b'DEFAULT_USED '
+PPI-upper-limit,60.0
+PPI-upper-limit-Derivation,b'DEFAULT_USED '
+Run-End,b'Thu Oct 28 00:52:59 2021\n'
+Run-End-Derivation,b'CALCULATED   '
+Run-Start,b'Thu Oct 28 00:50:24 2021\n'
+Run-Start-Derivation,b'CALCULATED   '
+Wall-Time,b'0000:02:35'
+Wall-Time-Derivation,b'CALCULATED   '
+actual-output-path,b'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output'
+actual-output-path-Derivation,b'CALCULATED   '
+add-options-to-sysparms,"b""'GRID'"""
+add-options-to-sysparms-Derivation,b'DEFAULT_USED '
+allow-rlof-at-birth,1
+allow-rlof-at-birth-Derivation,b'DEFAULT_USED '
+allow-touching-at-birth,0
+allow-touching-at-birth-Derivation,b'DEFAULT_USED '
+angular-momentum-conservation-during-circularisation,0
+angular-momentum-conservation-during-circularisation-Derivation,b'DEFAULT_USED '
+black-hole-kicks,"b""'FALLBACK'"""
+black-hole-kicks-Derivation,b'DEFAULT_USED '
+case-BB-stability-prescription,"b""'ALWAYS_STABLE'"""
+case-BB-stability-prescription-Derivation,b'DEFAULT_USED '
+check-photon-tiring-limit,0
+check-photon-tiring-limit-Derivation,b'DEFAULT_USED '
+chemically-homogeneous-evolution,"b""'PESSIMISTIC'"""
+chemically-homogeneous-evolution-Derivation,b'DEFAULT_USED '
+circularise-binary-during-mass-transfer,1
+circularise-binary-during-mass-transfer-Derivation,b'DEFAULT_USED '
+common-envelope-allow-main-sequence-survive,1
+common-envelope-allow-main-sequence-survive-Derivation,b'DEFAULT_USED '
+common-envelope-alpha,1.0
+common-envelope-alpha-Derivation,b'DEFAULT_USED '
+common-envelope-alpha-thermal,1.0
+common-envelope-alpha-thermal-Derivation,b'DEFAULT_USED '
+common-envelope-lambda,0.1
+common-envelope-lambda-Derivation,b'DEFAULT_USED '
+common-envelope-lambda-multiplier,1.0
+common-envelope-lambda-multiplier-Derivation,b'DEFAULT_USED '
+common-envelope-lambda-prescription,"b""'LAMBDA_NANJING'"""
+common-envelope-lambda-prescription-Derivation,b'DEFAULT_USED '
+common-envelope-mass-accretion-constant,0.0
+common-envelope-mass-accretion-constant-Derivation,b'DEFAULT_USED '
+common-envelope-mass-accretion-max,0.1
+common-envelope-mass-accretion-max-Derivation,b'DEFAULT_USED '
+common-envelope-mass-accretion-min,0.04
+common-envelope-mass-accretion-min-Derivation,b'DEFAULT_USED '
+common-envelope-mass-accretion-prescription,"b""'ZERO'"""
+common-envelope-mass-accretion-prescription-Derivation,b'DEFAULT_USED '
+common-envelope-recombination-energy-density,15000000000000.0
+common-envelope-recombination-energy-density-Derivation,b'DEFAULT_USED '
+common-envelope-slope-kruckow,-0.833333
+common-envelope-slope-kruckow-Derivation,b'DEFAULT_USED '
+cool-wind-mass-loss-multiplier,1.0
+cool-wind-mass-loss-multiplier-Derivation,b'DEFAULT_USED '
+debug-classes,b'{ }'
+debug-classes-Derivation,b'DEFAULT_USED '
+debug-level,0
+debug-level-Derivation,b'DEFAULT_USED '
+debug-to-file,0
+debug-to-file-Derivation,b'DEFAULT_USED '
+detailed-output,0
+detailed-output-Derivation,b'DEFAULT_USED '
+eccentricity,0.0
+eccentricity-Derivation,b'DEFAULT_USED '
+eccentricity-distribution,"b""'ZERO'"""
+eccentricity-distribution-Derivation,b'DEFAULT_USED '
+eccentricity-max,1.0
+eccentricity-max-Derivation,b'DEFAULT_USED '
+eccentricity-min,0.0
+eccentricity-min-Derivation,b'DEFAULT_USED '
+eddington-accretion-factor,1.0
+eddington-accretion-factor-Derivation,b'DEFAULT_USED '
+enable-warnings,0
+enable-warnings-Derivation,b'DEFAULT_USED '
+envelope-state-prescription,"b""'LEGACY'"""
+envelope-state-prescription-Derivation,b'DEFAULT_USED '
+errors-to-file,0
+errors-to-file-Derivation,b'DEFAULT_USED '
+evolve-pulsars,0
+evolve-pulsars-Derivation,b'DEFAULT_USED '
+evolve-unbound-systems,0
+evolve-unbound-systems-Derivation,b'DEFAULT_USED '
+fix-dimensionless-kick-magnitude,-1.0
+fix-dimensionless-kick-magnitude-Derivation,b'DEFAULT_USED '
+fixedRandomSeed,1
+fixedRandomSeed-Derivation,b'CALCULATED   '
+fryer-supernova-engine,"b""'DELAYED'"""
+fryer-supernova-engine-Derivation,b'DEFAULT_USED '
+grid,"b""'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output/grid_246.csv'"""
+grid-Derivation,b'USER_SUPPLIED'
+hdf5-buffer-size,1
+hdf5-buffer-size-Derivation,b'DEFAULT_USED '
+hdf5-chunk-size,100000
+hdf5-chunk-size-Derivation,b'DEFAULT_USED '
+help,0
+help-Derivation,b'DEFAULT_USED '
+initial-mass,5.0
+initial-mass-1,5.0
+initial-mass-1-Derivation,b'DEFAULT_USED '
+initial-mass-2,5.0
+initial-mass-2-Derivation,b'DEFAULT_USED '
+initial-mass-Derivation,b'DEFAULT_USED '
+initial-mass-function,"b""'KROUPA'"""
+initial-mass-function-Derivation,b'DEFAULT_USED '
+initial-mass-max,150.0
+initial-mass-max-Derivation,b'DEFAULT_USED '
+initial-mass-min,5.0
+initial-mass-min-Derivation,b'DEFAULT_USED '
+initial-mass-power,0.0
+initial-mass-power-Derivation,b'DEFAULT_USED '
+kick-direction,"b""'ISOTROPIC'"""
+kick-direction-Derivation,b'DEFAULT_USED '
+kick-direction-power,0.0
+kick-direction-power-Derivation,b'DEFAULT_USED '
+kick-magnitude,0.0
+kick-magnitude-1,0.0
+kick-magnitude-1-Derivation,b'DEFAULT_USED '
+kick-magnitude-2,0.0
+kick-magnitude-2-Derivation,b'DEFAULT_USED '
+kick-magnitude-Derivation,b'DEFAULT_USED '
+kick-magnitude-distribution,"b""'MAXWELLIAN'"""
+kick-magnitude-distribution-Derivation,b'DEFAULT_USED '
+kick-magnitude-max,-1.0
+kick-magnitude-max-Derivation,b'DEFAULT_USED '
+kick-magnitude-random,0.0
+kick-magnitude-random-1,0.0
+kick-magnitude-random-1-Derivation,b'DEFAULT_USED '
+kick-magnitude-random-2,0.0
+kick-magnitude-random-2-Derivation,b'DEFAULT_USED '
+kick-magnitude-random-Derivation,b'DEFAULT_USED '
+kick-magnitude-sigma-CCSN-BH,265.0
+kick-magnitude-sigma-CCSN-BH-Derivation,b'DEFAULT_USED '
+kick-magnitude-sigma-CCSN-NS,265.0
+kick-magnitude-sigma-CCSN-NS-Derivation,b'DEFAULT_USED '
+kick-magnitude-sigma-ECSN,30.0
+kick-magnitude-sigma-ECSN-Derivation,b'DEFAULT_USED '
+kick-magnitude-sigma-USSN,30.0
+kick-magnitude-sigma-USSN-Derivation,b'DEFAULT_USED '
+kick-mean-anomaly-1,0.0
+kick-mean-anomaly-1-Derivation,b'DEFAULT_USED '
+kick-mean-anomaly-2,0.0
+kick-mean-anomaly-2-Derivation,b'DEFAULT_USED '
+kick-phi-1,0.0
+kick-phi-1-Derivation,b'DEFAULT_USED '
+kick-phi-2,0.0
+kick-phi-2-Derivation,b'DEFAULT_USED '
+kick-scaling-factor,1.0
+kick-scaling-factor-Derivation,b'DEFAULT_USED '
+kick-theta-1,0.0
+kick-theta-1-Derivation,b'DEFAULT_USED '
+kick-theta-2,0.0
+kick-theta-2-Derivation,b'DEFAULT_USED '
+log-classes,b'{ }'
+log-classes-Derivation,b'DEFAULT_USED '
+log-level,0
+log-level-Derivation,b'DEFAULT_USED '
+logfile-common-envelopes,"b""'BSE_Common_Envelopes'"""
+logfile-common-envelopes-Derivation,b'DEFAULT_USED '
+logfile-definitions,"b""''"""
+logfile-definitions-Derivation,b'DEFAULT_USED '
+logfile-detailed-output,"b""'BSE_Detailed_Output'"""
+logfile-detailed-output-Derivation,b'DEFAULT_USED '
+logfile-double-compact-objects,"b""'BSE_Double_Compact_Objects'"""
+logfile-double-compact-objects-Derivation,b'DEFAULT_USED '
+logfile-name-prefix,"b""''"""
+logfile-name-prefix-Derivation,b'DEFAULT_USED '
+logfile-pulsar-evolution,"b""'BSE_Pulsar_Evolution'"""
+logfile-pulsar-evolution-Derivation,b'DEFAULT_USED '
+logfile-rlof-parameters,"b""'BSE_RLOF'"""
+logfile-rlof-parameters-Derivation,b'DEFAULT_USED '
+logfile-supernovae,"b""'BSE_Supernovae'"""
+logfile-supernovae-Derivation,b'DEFAULT_USED '
+logfile-switch-log,"b""'BSE_Switch_Log'"""
+logfile-switch-log-Derivation,b'DEFAULT_USED '
+logfile-system-parameters,"b""'BSE_System_Parameters'"""
+logfile-system-parameters-Derivation,b'DEFAULT_USED '
+logfile-type,"b""'HDF5'"""
+logfile-type-Derivation,b'DEFAULT_USED '
+luminous-blue-variable-multiplier,1.5
+luminous-blue-variable-multiplier-Derivation,b'DEFAULT_USED '
+luminous-blue-variable-prescription,"b""'HURLEY_ADD'"""
+luminous-blue-variable-prescription-Derivation,b'DEFAULT_USED '
+mass-loss-prescription,"b""'VINK'"""
+mass-loss-prescription-Derivation,b'DEFAULT_USED '
+mass-ratio,1.0
+mass-ratio-Derivation,b'DEFAULT_USED '
+mass-ratio-distribution,"b""'FLAT'"""
+mass-ratio-distribution-Derivation,b'DEFAULT_USED '
+mass-ratio-max,1.0
+mass-ratio-max-Derivation,b'DEFAULT_USED '
+mass-ratio-min,0.01
+mass-ratio-min-Derivation,b'DEFAULT_USED '
+mass-transfer,1
+mass-transfer-Derivation,b'DEFAULT_USED '
+mass-transfer-accretion-efficiency-prescription,"b""'THERMAL'"""
+mass-transfer-accretion-efficiency-prescription-Derivation,b'DEFAULT_USED '
+mass-transfer-angular-momentum-loss-prescription,"b""'ISOTROPIC'"""
+mass-transfer-angular-momentum-loss-prescription-Derivation,b'DEFAULT_USED '
+mass-transfer-fa,0.5
+mass-transfer-fa-Derivation,b'DEFAULT_USED '
+mass-transfer-jloss,1.0
+mass-transfer-jloss-Derivation,b'DEFAULT_USED '
+mass-transfer-rejuvenation-prescription,"b""'STARTRACK'"""
+mass-transfer-rejuvenation-prescription-Derivation,b'DEFAULT_USED '
+mass-transfer-thermal-limit-C,10.0
+mass-transfer-thermal-limit-C-Derivation,b'DEFAULT_USED '
+mass-transfer-thermal-limit-accretor,"b""'CFACTOR'"""
+mass-transfer-thermal-limit-accretor-Derivation,b'DEFAULT_USED '
+maximum-evolution-time,13700.0
+maximum-evolution-time-Derivation,b'DEFAULT_USED '
+maximum-mass-donor-nandez-ivanova,2.0
+maximum-mass-donor-nandez-ivanova-Derivation,b'DEFAULT_USED '
+maximum-neutron-star-mass,2.5
+maximum-neutron-star-mass-Derivation,b'DEFAULT_USED '
+maximum-number-timestep-iterations,99999
+maximum-number-timestep-iterations-Derivation,b'DEFAULT_USED '
+mcbur1,1.6
+mcbur1-Derivation,b'DEFAULT_USED '
+metallicity,0.0142
+metallicity-Derivation,b'DEFAULT_USED '
+metallicity-distribution,"b""'ZSOLAR'"""
+metallicity-distribution-Derivation,b'DEFAULT_USED '
+metallicity-max,0.03
+metallicity-max-Derivation,b'DEFAULT_USED '
+metallicity-min,0.0001
+metallicity-min-Derivation,b'DEFAULT_USED '
+minimum-secondary-mass,0.1
+minimum-secondary-mass-Derivation,b'DEFAULT_USED '
+mode,"b""'BSE'"""
+mode-Derivation,b'DEFAULT_USED '
+muller-mandel-kick-multiplier-BH,200.0
+muller-mandel-kick-multiplier-BH-Derivation,b'DEFAULT_USED '
+muller-mandel-kick-multiplier-NS,400.0
+muller-mandel-kick-multiplier-NS-Derivation,b'DEFAULT_USED '
+neutrino-mass-loss-BH-formation,"b""'FIXED_MASS'"""
+neutrino-mass-loss-BH-formation-Derivation,b'DEFAULT_USED '
+neutrino-mass-loss-BH-formation-value,0.1
+neutrino-mass-loss-BH-formation-value-Derivation,b'DEFAULT_USED '
+neutron-star-equation-of-state,"b""'SSE'"""
+neutron-star-equation-of-state-Derivation,b'DEFAULT_USED '
+number-of-systems,10
+number-of-systems-Derivation,b'DEFAULT_USED '
+orbital-period,0.1
+orbital-period-Derivation,b'DEFAULT_USED '
+orbital-period-distribution,"b""'FLATINLOG'"""
+orbital-period-distribution-Derivation,b'DEFAULT_USED '
+orbital-period-max,1000.0
+orbital-period-max-Derivation,b'DEFAULT_USED '
+orbital-period-min,1.1
+orbital-period-min-Derivation,b'DEFAULT_USED '
+output-container,"b""'batch_246'"""
+output-container-Derivation,b'USER_SUPPLIED'
+output-path,"b""'/n/holystore01/LABS/hernquist_lab/Users/lvanson/CompasOutput/v02.21.00/Fiduicial_COMPAS_method_paper/fWR1.0coolWind1.0/masterfolder/MainRun/../../output'"""
+output-path-Derivation,b'USER_SUPPLIED'
+overall-wind-mass-loss-multiplier,1.0
+overall-wind-mass-loss-multiplier-Derivation,b'DEFAULT_USED '
+pair-instability-supernovae,1
+pair-instability-supernovae-Derivation,b'DEFAULT_USED '
+population-data-printing,0
+population-data-printing-Derivation,b'DEFAULT_USED '
+print-bool-as-string,0
+print-bool-as-string-Derivation,b'DEFAULT_USED '
+pulsar-birth-magnetic-field-distribution,"b""'ZERO'"""
+pulsar-birth-magnetic-field-distribution-Derivation,b'DEFAULT_USED '
+pulsar-birth-magnetic-field-distribution-max,13.0
+pulsar-birth-magnetic-field-distribution-max-Derivation,b'DEFAULT_USED '
+pulsar-birth-magnetic-field-distribution-min,11.0
+pulsar-birth-magnetic-field-distribution-min-Derivation,b'DEFAULT_USED '
+pulsar-birth-spin-period-distribution,"b""'ZERO'"""
+pulsar-birth-spin-period-distribution-Derivation,b'DEFAULT_USED '
+pulsar-birth-spin-period-distribution-max,100.0
+pulsar-birth-spin-period-distribution-max-Derivation,b'DEFAULT_USED '
+pulsar-birth-spin-period-distribution-min,10.0
+pulsar-birth-spin-period-distribution-min-Derivation,b'DEFAULT_USED '
+pulsar-magnetic-field-decay-massscale,0.025
+pulsar-magnetic-field-decay-massscale-Derivation,b'DEFAULT_USED '
+pulsar-magnetic-field-decay-timescale,1000.0
+pulsar-magnetic-field-decay-timescale-Derivation,b'DEFAULT_USED '
+pulsar-minimum-magnetic-field,8.0
+pulsar-minimum-magnetic-field-Derivation,b'DEFAULT_USED '
+pulsational-pair-instability,1
+pulsational-pair-instability-Derivation,b'DEFAULT_USED '
+pulsational-pair-instability-prescription,"b""'MARCHANT'"""
+pulsational-pair-instability-prescription-Derivation,b'DEFAULT_USED '
+quiet,0
+quiet-Derivation,b'DEFAULT_USED '
+random-seed,2460000
+random-seed-Derivation,b'USER_SUPPLIED'
+remnant-mass-prescription,"b""'FRYER2012'"""
+remnant-mass-prescription-Derivation,b'DEFAULT_USED '
+revised-energy-formalism-nandez-ivanova,0
+revised-energy-formalism-nandez-ivanova-Derivation,b'DEFAULT_USED '
+rlof-printing,1
+rlof-printing-Derivation,b'DEFAULT_USED '
+rotational-frequency,0.0
+rotational-frequency-1,0.0
+rotational-frequency-1-Derivation,b'DEFAULT_USED '
+rotational-frequency-2,0.0
+rotational-frequency-2-Derivation,b'DEFAULT_USED '
+rotational-frequency-Derivation,b'DEFAULT_USED '
+rotational-velocity-distribution,"b""'ZERO'"""
+rotational-velocity-distribution-Derivation,b'DEFAULT_USED '
+semi-major-axis,0.1
+semi-major-axis-Derivation,b'DEFAULT_USED '
+semi-major-axis-distribution,"b""'FLATINLOG'"""
+semi-major-axis-distribution-Derivation,b'DEFAULT_USED '
+semi-major-axis-max,1000.0
+semi-major-axis-max-Derivation,b'DEFAULT_USED '
+semi-major-axis-min,0.01
+semi-major-axis-min-Derivation,b'DEFAULT_USED '
+stellar-zeta-prescription,"b""'SOBERMAN'"""
+stellar-zeta-prescription-Derivation,b'DEFAULT_USED '
+store-input-files,1
+store-input-files-Derivation,b'DEFAULT_USED '
+switch-log,0
+switch-log-Derivation,b'DEFAULT_USED '
+timestep-multiplier,1.0
+timestep-multiplier-Derivation,b'DEFAULT_USED '
+use-mass-loss,1
+use-mass-loss-Derivation,b'DEFAULT_USED '
+useFixedUK,0
+useFixedUK-Derivation,b'CALCULATED   '
+version,0
+version-Derivation,b'DEFAULT_USED '
+wolf-rayet-multiplier,1.0
+wolf-rayet-multiplier-Derivation,b'DEFAULT_USED '
+zeta-adiabatic-arbitrary,10000.0
+zeta-adiabatic-arbitrary-Derivation,b'DEFAULT_USED '
+zeta-main-sequence,2.0
+zeta-main-sequence-Derivation,b'DEFAULT_USED '
+zeta-radiative-envelope-giant,6.5
+zeta-radiative-envelope-giant-Derivation,b'DEFAULT_USED '
