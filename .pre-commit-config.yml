@@ -1,0 +1,28 @@
+repos:
+  - repo: builtin
+    hooks:
+      - id: check-added-large-files
+        name: No files larger than 10 MB
+        description: "Clear large notebook outputs or save figures as small PNGs."
+        args: ["--maxkb=10000"]
+
+      # TODO: The following file types are already included in .gitignore. Consider removing the check.
+      - id: deny-filename-pattern
+        name: No data files
+        description: "Data files must not be committed. Keep them on the GROWL server."
+        args:
+          - --ignore-case
+          - '\.h5$'
+          - '\.hdf5$'
+          - '\.he5$'
+          - '\.tar$'
+          - '\.tar\.gz$'
+          - '\.tgz$'
+          - '\.zip$'
+          - '\.gz$'
+          - '\.npy$'
+          - '\.npz$'
+          - '\.pkl$'
+          - '\.pickle$'
+          - '\.fits$'
+          - '\.dat$'
