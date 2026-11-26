@@ -10,6 +10,10 @@ GROWL Task Force.
 ## Layout
 
 ```
+.github/
+  workflows/
+    git-hooks.yml             runs prek checks on pushes and pull requests
+.pre-commit-config.yml        git pre-commit hooks, optimized for prek.
 GROWL_TF_individual_data_projects/
   README.md                   how to contribute: start here
   instructions_task_force/    instruction notebooks (one per step) and templates
@@ -17,7 +21,6 @@ GROWL_TF_individual_data_projects/
     <dataset>/                one folder per dataset, e.g. vanson-2022-nopeaks
       README.md               notes and results for this dataset
       metadata.csv            the dataset's metadata, checked against the paper
-scripts/                      helper scripts (e.g. the pull-request file check)
 ```
 
 Dataset names are lowercase, `<first author>-<year>-<short tag>`. Simulation data is never stored

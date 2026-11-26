@@ -11,6 +11,6 @@
 # GROWL task force: dataset folders, instructions and templates
 /GROWL_TF_individual_data_projects/   @growl-lab/growl-admin-individual-projects
 
-# Infrastructure (scripts, workflows, templates, this file)
-/scripts/                             @growl-lab/growl-admin-individual-projects
+# Infrastructure (git hooks, workflows, templates, this file)
+/.pre-commit-config.yml               @growl-lab/growl-admin-individual-projects
 /.github/                             @growl-lab/growl-admin-individual-projects
